@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RN-commentsApp
 =======
 # rnTestTask
