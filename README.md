@@ -1,6 +1,4 @@
 # RN-commentsApp
-=======
-# rnTestTask
 
 This project is a React Native application focused on user authentication and cascading post and comment functionality. The app allows users to create accounts locally on their devices and manage posts and comments with a structured layout. The main screen is accessible only to authorized users, and it supports pagination and nested comments display.
 
@@ -58,8 +56,8 @@ Ensure that you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone git@github.com:yourusername/rnTestTask.git
-   cd rnTestTask
+   git clone https://github.com/GorArestakesyan/RN-commentsApp.git
+   cd RN-comments
    ```
 
 2. **Install dependencies:**
